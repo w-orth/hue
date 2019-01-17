@@ -1,0 +1,41 @@
+{
+  "name": "hue",
+  "description": "Hue professional theme for Ghost",
+  "demo": "https://w-orth.io/hue",
+  "version": "1.0.3",
+  "engines": {
+    "ghost": ">=2.0.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Hue",
+    "email": "support@w-orth.io",
+    "url": "https://w-orth.io/hue/license"
+  },
+  "gpm": {
+    "type": "theme",
+    "categories": [
+      "Minimal",
+      "Magazine",
+      "Blog",
+      "Article"
+    ]
+  },
+  "keywords": [
+    "ghost",
+    "theme",
+    "ghost-theme",
+    "Hue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w-orth/hue"
+  },
+  "bugs": {
+    "url": "https://github.com/w-orth/hue/issues",
+    "email": "support@w-orth.io"
+  },
+  "config": {
+    "posts_per_page": 14
+  }
+}
